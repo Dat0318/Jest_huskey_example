@@ -1,0 +1,63 @@
+# Example:
+# https://dev.to/jyeett/the-basic-necessities-of-a-mock-user-authentication-with-json-server-auth-2onj
+# https://www.npmjs.com/package/json-server-auth
+
+@local = http://localhost:4000
+@baseUrl = http://localhost:4000/api
+
+# Users
+# @name register
+POST {{baseUrl}}/register
+Content-Type: application/json
+
+{
+  "email": "test2@gmail.com",
+  "password": "123456"
+}
+###
+
+# @name sign
+POST {{local}}/users
+Content-Type: application/json
+
+{
+  "email": "test4@gmail.com",
+  "password": "123456"
+}
+###
+
+# @name Login
+
+POST {{local}}/login
+Content-Type: application/json
+
+{
+  "email": "test1@gmail.com",
+  "password": "123456"
+}
+
+###
+
+# @name LoginFail
+
+POST {{local}}/login
+Content-Type: application/json
+
+{
+  "email": "test1@gmail.com",
+  "password": "1234567"
+}
+
+###
+
+# @name LoginFail_1
+
+POST {{local}}/login
+Content-Type: application/json
+
+{
+  "email": "test100@gmail.com",
+  "password": "123456"
+}
+
+###

@@ -1,0 +1,255 @@
+{
+  "categories": [
+    {
+      "id": "73744e39-a8b7-4178-8f89-660a0d84b81e",
+      "name": "Sports",
+      "createUp": "2021-08-05T17:00:38.011Z",
+      "updateAt": "2021-08-05T17:00:38.011Z"
+    },
+    {
+      "id": "2d2397d7-49e1-4cef-89a4-86c09d1c7115",
+      "name": "Baby",
+      "createUp": "2021-08-05T17:00:38.011Z",
+      "updateAt": "2021-08-05T17:00:38.011Z"
+    },
+    {
+      "id": "9fd24827-c81b-4a57-990a-99ead391f26c",
+      "name": "Kids",
+      "createUp": "2021-08-05T17:00:38.011Z",
+      "updateAt": "2021-08-05T17:00:38.011Z"
+    },
+    {
+      "id": "1b49a4cc-a0bc-4933-972a-e4432a3d187f",
+      "name": "Books",
+      "createUp": "2021-08-05T17:00:38.011Z",
+      "updateAt": "2021-08-05T17:00:38.011Z"
+    }
+  ],
+  "products": [
+    {
+      "id": "ecb6fdc0-f070-4031-b3e1-540817346e93",
+      "name": "Generic Plastic Shoes",
+      "color": "mint green",
+      "price": 96,
+      "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+      "createUp": "2021-08-05T17:00:38.012Z",
+      "updateAt": "2021-08-05T17:00:38.012Z",
+      "thumbnail": "http://placeimg.com/400/400"
+    },
+    {
+      "id": "5df4a538-7357-4215-8e98-7458c5ef6e00",
+      "name": "Ergonomic Soft Shoes",
+      "color": "yellow",
+      "price": 238,
+      "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+      "createUp": "2021-08-05T17:00:38.012Z",
+      "updateAt": "2021-08-05T17:00:38.012Z",
+      "thumbnail": "http://placeimg.com/400/400"
+    },
+    {
+      "id": "10ea6580-2aea-4c8e-87b6-943e49ea6041",
+      "name": "Rustic Concrete Chicken",
+      "color": "gold",
+      "price": 627,
+      "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+      "createUp": "2021-08-05T17:00:38.012Z",
+      "updateAt": "2021-08-05T17:00:38.012Z",
+      "thumbnail": "http://placeimg.com/400/400"
+    },
+    {
+      "id": "e183d525-681d-485d-9831-25f01679c12b",
+      "name": "Tasty Plastic Bacon",
+      "color": "blue",
+      "price": 852,
+      "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+      "createUp": "2021-08-05T17:00:38.012Z",
+      "updateAt": "2021-08-05T17:00:38.012Z",
+      "thumbnail": "http://placeimg.com/400/400"
+    },
+    {
+      "id": "a848a185-5a3d-4fed-af0b-fc9cc5dfa920",
+      "name": "Handcrafted Rubber Fish",
+      "color": "green",
+      "price": 874,
+      "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+      "createUp": "2021-08-05T17:00:38.012Z",
+      "updateAt": "2021-08-05T17:00:38.012Z",
+      "thumbnail": "http://placeimg.com/400/400"
+    },
+    {
+      "id": "e01ca125-0b66-4536-a7bf-54d12ac8c643",
+      "name": "Fantastic Metal Ball",
+      "color": "orange",
+      "price": 718,
+      "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+      "createUp": "2021-08-05T17:00:38.012Z",
+      "updateAt": "2021-08-05T17:00:38.012Z",
+      "thumbnail": "http://placeimg.com/400/400"
+    },
+    {
+      "id": "b9774779-1ef1-442a-beeb-50956155af83",
+      "name": "Gorgeous Soft Fish",
+      "color": "gold",
+      "price": 244,
+      "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+      "createUp": "2021-08-05T17:00:38.012Z",
+      "updateAt": "2021-08-05T17:00:38.012Z",
+      "thumbnail": "http://placeimg.com/400/400"
+    },
+    {
+      "id": "8a70c249-9ea4-4927-af62-fb17eaf8a587",
+      "name": "Sleek Fresh Chair",
+      "color": "teal",
+      "price": 815,
+      "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+      "createUp": "2021-08-05T17:00:38.012Z",
+      "updateAt": "2021-08-05T17:00:38.012Z",
+      "thumbnail": "http://placeimg.com/400/400"
+    },
+    {
+      "id": "bd9a6939-91b0-49d1-b406-2b774e469c3a",
+      "name": "Intelligent Concrete Ball",
+      "color": "green",
+      "price": 506,
+      "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+      "createUp": "2021-08-05T17:00:38.012Z",
+      "updateAt": "2021-08-05T17:00:38.012Z",
+      "thumbnail": "http://placeimg.com/400/400"
+    },
+    {
+      "id": "6edda3cc-9a2f-4a2c-abf8-7248786f31e4",
+      "name": "Ergonomic Rubber Shoes",
+      "color": "green",
+      "price": 341,
+      "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+      "createUp": "2021-08-05T17:00:38.012Z",
+      "updateAt": "2021-08-05T17:00:38.012Z",
+      "thumbnail": "http://placeimg.com/400/400"
+    },
+    {
+      "id": "71f44e24-2103-488b-9b74-8c72c610c837",
+      "name": "Awesome Soft Table",
+      "color": "magenta",
+      "price": 21,
+      "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+      "createUp": "2021-08-05T17:00:38.012Z",
+      "updateAt": "2021-08-05T17:00:38.012Z",
+      "thumbnail": "http://placeimg.com/400/400"
+    },
+    {
+      "id": "9e4ac130-eaa3-42f0-b7ae-0964fca45dab",
+      "name": "Unbranded Frozen Pants",
+      "color": "gold",
+      "price": 529,
+      "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+      "createUp": "2021-08-05T17:00:38.012Z",
+      "updateAt": "2021-08-05T17:00:38.012Z",
+      "thumbnail": "http://placeimg.com/400/400"
+    },
+    {
+      "id": "e826acd4-edc1-4b1e-9152-6150a01c9001",
+      "name": "Rustic Frozen Salad",
+      "color": "green",
+      "price": 911,
+      "description": "The Football Is Good For Training And Recreational Purposes",
+      "createUp": "2021-08-05T17:00:38.012Z",
+      "updateAt": "2021-08-05T17:00:38.012Z",
+      "thumbnail": "http://placeimg.com/400/400"
+    },
+    {
+      "id": "bc39fbf1-2a0a-49ec-9d29-3987b38f8ceb",
+      "name": "Fantastic Plastic Car",
+      "color": "olive",
+      "price": 733,
+      "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+      "createUp": "2021-08-05T17:00:38.012Z",
+      "updateAt": "2021-08-05T17:00:38.012Z",
+      "thumbnail": "http://placeimg.com/400/400"
+    },
+    {
+      "id": "8b848173-d83f-40a0-a3fb-211c1eb0fd6f",
+      "name": "Practical Frozen Bike",
+      "color": "violet",
+      "price": 747,
+      "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+      "createUp": "2021-08-05T17:00:38.012Z",
+      "updateAt": "2021-08-05T17:00:38.012Z",
+      "thumbnail": "http://placeimg.com/400/400"
+    },
+    {
+      "id": "21e897b5-1a66-4c9b-890b-e54fc2ad4cb8",
+      "name": "Ergonomic Metal Hat",
+      "color": "lavender",
+      "price": 968,
+      "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+      "createUp": "2021-08-05T17:00:38.012Z",
+      "updateAt": "2021-08-05T17:00:38.012Z",
+      "thumbnail": "http://placeimg.com/400/400"
+    },
+    {
+      "id": "67b14c4c-7dd5-46cc-ac63-ee2494917adb",
+      "name": "Fantastic Wooden Car",
+      "color": "azure",
+      "price": 774,
+      "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+      "createUp": "2021-08-05T17:00:38.012Z",
+      "updateAt": "2021-08-05T17:00:38.012Z",
+      "thumbnail": "http://placeimg.com/400/400"
+    },
+    {
+      "id": "3bfd6cea-cb68-4a08-84d6-ce46545fc96b",
+      "name": "Gorgeous Fresh Soap",
+      "color": "plum",
+      "price": 946,
+      "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+      "createUp": "2021-08-05T17:00:38.012Z",
+      "updateAt": "2021-08-05T17:00:38.012Z",
+      "thumbnail": "http://placeimg.com/400/400"
+    },
+    {
+      "id": "91f35031-3203-4adc-a9fa-831626b3c7ba",
+      "name": "Intelligent Rubber Keyboard",
+      "color": "olive",
+      "price": 201,
+      "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+      "createUp": "2021-08-05T17:00:38.013Z",
+      "updateAt": "2021-08-05T17:00:38.013Z",
+      "thumbnail": "http://placeimg.com/400/400"
+    },
+    {
+      "id": "faeea5ff-cd42-43fa-910c-bbf9d9a15f1a",
+      "name": "Fantastic Metal Bacon",
+      "color": "cyan",
+      "price": 755,
+      "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+      "createUp": "2021-08-05T17:00:38.013Z",
+      "updateAt": "2021-08-05T17:00:38.013Z",
+      "thumbnail": "http://placeimg.com/400/400"
+    }
+  ],
+  "profile": {
+    "name": "pro"
+  },
+  "users": [
+    {
+      "email": "test@gmail.com",
+      "password": "$2a$10$TWCLCm/S5mOxAAY2nsOHh.wAVET1.RTqUQgbuu7SYkZYsb4P6ZAZe",
+      "id": 1
+    },
+    {
+      "email": "test1@gmail.com",
+      "password": "$2a$10$McOzlUahQSbAivnfvpmz/.3PpK6yR7nzOBJeDp8atVXqPybKem9J.",
+      "id": 2
+    },
+    {
+      "email": "test2@gmail.com",
+      "password": "$2a$10$BGem9V0AZMNP1EkbN.RcTO5fa9DsgYCJNGumXJHHYUm2GGzM46qu.",
+      "id": 3
+    },
+    {
+      "email": "test4@gmail.com",
+      "password": "$2a$10$YrYxhu/92wR8UddBd8rQjeO1Oz3h9JQw6ysPeOdxOesgaaVHy9IHK",
+      "id": 4
+    }
+  ]
+}

@@ -1,3 +1,46 @@
+# Documentation:
+
+https://testing-library.com/docs/ecosystem-user-event/
+https://reactjs.org/docs/testing-recipes.html
+
+BASIC EXAMPLE:
+https://react-testing-library-examples.netlify.app/
+https://github.com/kamranayub/pluralsight-sample-react-testing-typescript
+
+## structure
+
+https://blog.webdevsimplified.com/2022-07/react-folder-structure/
+https://maxrozen.com/guidelines-improve-react-app-folder-structure
+
+## example
+
+https://testing-library.com/docs/queries/about
+
+# Structure of presentation
+
+0. integrate prettier, eslint, husky
+
+   - example paste wrong format
+   - write wrong format and warning
+   - disable rule eslint ==> config ==> recommend use bnb eslint or default config of create react app
+     Example: no-unused-vars
+   - advantage of spell check <== exampleessssss
+
+   - some extensions evon dev
+
+1. project structure
+
+   - function component
+   - module component
+
+2. some basic syntax and example with jest
+
+   - syntax for function untils/math.js, untils/validate.js
+
+3. example with test ui dom and logic ==> intergrate to project
+
+==============================================================
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
