@@ -1,7 +1,6 @@
 // doc: https://stackoverflow.com/questions/71336895/react-jest-login-form-test
 import React from 'react';
 import { render, fireEvent, waitFor } from '@testing-library/react';
-
 import Login, { Props } from '../index';
 import axios from 'axios';
 import mocks from '../mock';
@@ -130,6 +129,7 @@ describe('<Login />', () => {
         res.data = { message: response.message };
         break;
     }
+    console.log(res);
 
     await waitFor(() => {
       expect(onSubmit).toHaveBeenCalledWith(expect.objectContaining(res));

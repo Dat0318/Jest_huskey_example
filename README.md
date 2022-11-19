@@ -39,7 +39,7 @@ https://testing-library.com/docs/queries/about
 
 3. example with test ui dom and logic ==> intergrate to project
 
-==============================================================
+   - # test one file: npm test ./src/pages/login/**tests**/index.test.tsx
 
 # Getting Started with Create React App
 
